@@ -14,8 +14,6 @@
 2. **Open in Android Studio**: Open the project in Android Studio.
 3. **Build and Run**: Build and run the project on an Android device or emulator.
 
-
-
 ## Screenshots:
 <table>
   <tr>
@@ -23,3 +21,10 @@
      <td><img src="https://github.com/AhmedGamalRamadan/WeatherCompose/assets/144063315/016f42e6-3c8a-4643-afc6-79d2abd47f69" alt="splash" width="300"></td>
   </tr>
 </table>
+
+## Connect with Me 🌐
+Let's connect! Feel free to reach out on LinkedIn.
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-gamal-97509328a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-gamal-97509328a/" height="30" width="40" /></a>
+</p>
+
