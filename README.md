@@ -1,5 +1,7 @@
 # Weather App in Kotlin using Jetpack Compose
 
+This Weather App is an Android application that provides real-time weather information by fetching data from a weather API. Built using Jetpack Compose for a modern UI, the app showcases efficient API integration and clean architecture practices.
+
 ## Features:
 - **Jetpack Compose:** The app leverages *Jetpack Compose*, a modern Android UI toolkit, to create a seamless and interactive user experience.
 - **Kotlin:** Developed entirely in *Kotlin*, the codebase benefits from the conciseness and expressiveness of the language, promoting efficient and readable code.
